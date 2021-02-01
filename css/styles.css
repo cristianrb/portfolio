@@ -75,6 +75,15 @@ header .menu .c-3:hover {
     background: #002d44;
 }
 
+/* SLIDER */
+.slider {
+    margin-bottom: 40px;
+}
+
+.slider .col {
+    padding: 0;
+}
+
 /* MEDIA QUERIES */
 /* Dispositivo XL */
 @media screen and (max-width: 1199px) {}
