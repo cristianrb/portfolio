@@ -124,6 +124,61 @@ header .menu .c-3:hover {
     width: auto;
 }
 
+/* ABOUT ME */
+
+.about-me {
+    padding: 30px;
+    margin-bottom: 40px;
+}
+
+.about-me .foto {
+    text-align: center;
+}
+
+.about-me .foto img {
+    margin-bottom: 30px;
+}
+
+.about-me .foto .nombre {
+    color: #545454;
+    font-weight: 300;
+    font-size: 18px;
+    letter-spacing: 2px;
+}
+
+.about-me .info .titulo {
+    color: #005385;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-style: 40px;
+    margin-bottom: 30px;
+}
+
+.about-me .info .resumen {
+    letter-spacing: 1px;
+}
+
+.about-me .info .label {
+    font-style: 18px;
+    font-weight: 600;
+    color: #005385;
+    margin-bottom: 10px;
+}
+
+.about-me .info .progress {
+    background: #005385;
+    border-radius: 0;
+    margin-bottom: 15px;
+    height: 25px;
+}
+
+.about-me .info .progress-bar {
+    background: #3da5e2;
+    line-height: 25px;
+    text-align: left;
+    padding-left: 20px;
+}
+
 /* MEDIA QUERIES */
 /* Dispositivo XL */
 @media screen and (max-width: 1199px) {}
